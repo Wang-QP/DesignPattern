@@ -1,4 +1,4 @@
-package cn.wang.d02_test;
+package cn.wang.behavioral.t02_test;
 
 public abstract class AbstractLogger {
     public static int INFO = 1;
