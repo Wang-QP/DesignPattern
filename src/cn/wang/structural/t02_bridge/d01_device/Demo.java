@@ -6,6 +6,9 @@ import cn.wang.structural.t02_bridge.d01_device.devices.Tv;
 import cn.wang.structural.t02_bridge.d01_device.remotes.AdvancedRemote;
 import cn.wang.structural.t02_bridge.d01_device.remotes.BasicRemote;
 
+/**
+ * https://refactoringguru.cn/design-patterns/adapter/java/example
+ */
 public class Demo {
     public static void main(String[] args) {
         testDevice(new Tv());
